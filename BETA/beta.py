@@ -147,5 +147,6 @@ def Loop():
 x = True
 while x == True:
 	Loop()
+	input("Press to Cont.>>>")
 	
 
