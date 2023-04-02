@@ -15,11 +15,13 @@ All of the terms for MEGA are stated when starting the program, your microphone 
 Finaly, the all new MEGA beta is out! Although probobly a nightmare, it condenses all 3 files into one for compact storage and tablet / Ipad usage.
 
 # Modules:
-pip install regex
-sudo pip install urllib.request
-pip install pywhatkit
-pip install SpeechRecognition
-pip install pyttsx3
+pip install regex |
+sudo pip install urllib.request |
+pip install pywhatkit |
+pip install SpeechRecognition |
+pip install pyttsx3 |
+pip install subprocess.run |
+By default, you will only need to install urllib.request and subprocess... the rest will attempt to autoinstall.
 
 # Thank You:
 Also, please remember to spread peace! This is definatly not supposed to be out yet, but if you don't like it, just let it be and wait for updates!
