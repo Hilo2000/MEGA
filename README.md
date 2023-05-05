@@ -21,6 +21,8 @@ pip install pywhatkit |
 pip install SpeechRecognition |
 pip install pyttsx3 
 
+# Science Fair:
+Video: https://youtu.be/JlQXx9Fskgo | The code used in the tests in the video are private and untested. Please do not request to obtain them because the answer is no.
 
 # Thank You:
 Also, please remember to spread peace! This is definatly not supposed to be out yet, but if you don't like it, just let it be and wait for updates!
