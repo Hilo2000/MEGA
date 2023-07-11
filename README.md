@@ -5,7 +5,7 @@
 ██║░╚═╝░██║███████╗╚██████╔╝██║░░██║
 ╚═╝░░░░░╚═╝╚══════╝░╚═════╝░╚═╝░░╚═╝
 
-#Usage:
+# Usage:
 Mega is an open-source voice-activated assistant which aims to make general life easier. Although in development, you can still use MEGA to look up certain lines ussing the (search) function or play youtube videos using the (play) function. To use any of these functions simpily mush them into your query and let MEGA do the rest. Just remember (this applys to the beta version) to correctly install dependancies before usage.
 
 # Terms:
